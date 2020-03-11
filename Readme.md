@@ -15,6 +15,8 @@ the Pokémon universe.
 Since there are a large number of Pokémon, one would need a lot of time to study each
 one of them. There needs to be a more systematic method to undertake the studies of
 Pokémon since it’s impossible otherwise to understand each one’s uniqueness.
+
+
 My project therefore is a small attempt to make this task a bit easier. My project helps to
 organise the large number of Pokémon. Various basis can be used to classify
 Pokémon, for example, their name, Hit-points (in simple terms the health), their unique
